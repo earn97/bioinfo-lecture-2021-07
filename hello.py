@@ -7,3 +7,4 @@ name2 = sys.argv[2]
 
 print(f'Hello {name1}')
 print(f'Hello {name2}')
+print('Hello Hello')
